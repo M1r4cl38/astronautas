@@ -1,11 +1,18 @@
-header {
+header,
+main,
+footer {
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+}
 
+header {
+    background-color: aqua;
 }
 
 main {
-
+    background-color: blueviolet;
 }
 
 footer {
-    
+    background-color: rgb(187, 187, 235);
 }
