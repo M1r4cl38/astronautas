@@ -1,7 +1,7 @@
 {
   "name": "astronautas",
   "version": "1.0.0",
-  "description": "",
+  "description": "404 page design",
   "main": "index.js",
   "scripts": {
     "dev":"dead-server --host=localhost --port=8082",
